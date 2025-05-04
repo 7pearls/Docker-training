@@ -1,4 +1,4 @@
-1. Install Python (if not already installed)
+1.  Install Python (if not already installed)
 
 python3 --version
 
